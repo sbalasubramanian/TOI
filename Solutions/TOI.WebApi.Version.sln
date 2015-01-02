@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{460801
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersioningRouteContraint", "..\Projects\VersioningRouteContraint\VersioningRouteContraint.csproj", "{FECDC730-C0B9-4AC8-9A85-5156ABD3D7FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{A550C945-A290-4252-B0B0-3A40416D270B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A550C945-A290-4252-B0B0-3A40416D270B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A550C945-A290-4252-B0B0-3A40416D270B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FECDC730-C0B9-4AC8-9A85-5156ABD3D7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECDC730-C0B9-4AC8-9A85-5156ABD3D7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECDC730-C0B9-4AC8-9A85-5156ABD3D7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECDC730-C0B9-4AC8-9A85-5156ABD3D7FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
